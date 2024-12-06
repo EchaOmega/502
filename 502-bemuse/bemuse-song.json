@@ -1,0 +1,100 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "7cf7e77fd80ddc9694ce7a4147bdb771",
+      "info": {
+        "title": "bad gateway //502/",
+        "artist": "volts & Verlexin",
+        "genre": "Ambient Schranz",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "bga:halorime / obj:Echa"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1424,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 150.4,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_502-a.bms"
+    },
+    {
+      "md5": "c42f23fbed274e6e3c288e33de02bf8f",
+      "info": {
+        "title": "bad gateway //502/",
+        "artist": "volts & Verlexin",
+        "genre": "Ambient Schranz",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "bga:halorime / obj:Echa"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1059,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 150.4,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_502-h.bms"
+    },
+    {
+      "md5": "a54fc9e0726141cbd06e7a886b19dbcd",
+      "info": {
+        "title": "bad gateway //502/",
+        "artist": "volts & Verlexin",
+        "genre": "Ambient Schranz",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "bga:halorime / obj:Echa"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 529,
+      "bpm": {
+        "init": 150,
+        "min": 150,
+        "median": 150,
+        "max": 150
+      },
+      "duration": 150.4,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_502-n.bms"
+    }
+  ],
+  "title": "bad gateway //502/",
+  "artist": "volts & Verlexin",
+  "genre": "Ambient Schranz",
+  "bpm": 150,
+  "song_url": "https://soundcloud.com/st4sis-hypertone/bad-gateway",
+  "bms_url": "https://venue.bmssearch.net/letsbmsedit3/1",
+  "long_url": "https://soundcloud.com/st4sis-hypertone/bad-gateway",
+  "readme": "README.md",
+  "replaygain": "-4.88 dB",
+  "preview_offset": 41,
+  "preview_url": "bemuse-data/preview.mp3",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4"
+}
